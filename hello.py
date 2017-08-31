@@ -1,7 +1,8 @@
 
 
 print("v im 연습ㅇ딥니다")
-jflsdjflfjldsfjl
-fjdslkfjlksdf
+1212 jflsdjflfjldsfjl
+
+123 fjdslkfjlksdf
 
 fasfasdf
